@@ -5,4 +5,5 @@ Statistics 506 covers a variety of topics related to the use of computing for an
 
 ## Python 
 [Python implementation](https://github.com/pengyunbin/Python) for some popular machine learning algorithm 
+<br>
 [Python Data Analysis](https://pengyunbin.github.io/stats701)

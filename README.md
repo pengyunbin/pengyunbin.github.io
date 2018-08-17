@@ -7,3 +7,11 @@ Statistics 506 covers a variety of topics related to the use of computing for an
 [Python implementation](https://github.com/pengyunbin/Python) for some popular machine learning algorithm 
 <br>
 [Python Data Analysis](https://pengyunbin.github.io/stats701)
+
+## Project
+A collection of my project or mini project 
+[US residential building analysis]
+[Explonatory Data Analysis of NYC Flight Data]
+[Analysis of Los Angeles Business](https://github.com/pengyunbin/stats506/tree/master/LA_Project)
+[Traffic Fatality Analysis](https://github.com/DesmondCole/Traffic-Fatality-Analysis)
+

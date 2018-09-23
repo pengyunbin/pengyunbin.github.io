@@ -17,5 +17,5 @@ A collection of my project or mini project
 <br>
 [Analysis of Los Angeles Business](https://github.com/pengyunbin/stats506/tree/master/LA_Project)
 <br>
-[Traffic Fatality Analysis](https://github.com/DesmondCole/Traffic-Fatality-Analysis)
+[Traffic Fatality Analysis](https://github.com/pengyunbin/project_showcase/blob/master/Traffic_Fatality_Project.pdf)
 

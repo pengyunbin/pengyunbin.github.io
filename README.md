@@ -11,11 +11,11 @@ Statistics 506 covers a variety of topics related to the use of computing for an
 ## Project
 A collection of my project or mini project 
 <br>
-[US residential building analysis](https://pengyunbin.github.io/project_showcase/USResidential)
+[US residential building analysis](https://pengyunbin.github.io/project/USResidential)
 <br>
-[Explonatory Data Analysis of NYC Flight Data](https://pengyunbin.github.io/project_showcase/NYC_Flight)
+[Explonatory Data Analysis of NYC Flight Data](https://pengyunbin.github.io/project/NYC_Flight)
 <br>
 [Analysis of Los Angeles Business](https://github.com/pengyunbin/stats506/tree/master/LA_Project)
 <br>
-[Traffic Fatality Analysis](https://github.com/pengyunbin/project_showcase/blob/master/Traffic_Fatality_Project.pdf)
+[Traffic Fatality Analysis](https://github.com/pengyunbin/project/blob/master/Traffic_Fatality_Project.pdf)
 

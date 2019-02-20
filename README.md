@@ -19,3 +19,4 @@ A collection of my project or mini project
 <br>
 [Traffic Fatality Analysis](https://github.com/pengyunbin/project/blob/master/Traffic_Fatality_Project.pdf)
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>

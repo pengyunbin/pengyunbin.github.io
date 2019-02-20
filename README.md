@@ -20,3 +20,4 @@ A collection of my project or mini project
 [Traffic Fatality Analysis](https://github.com/pengyunbin/project/blob/master/Traffic_Fatality_Project.pdf)
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="yunbinpeng"><a class="LI-simple-link" href='https://www.linkedin.com/in/yunbinpeng?trk=profile-badge'>Yunbin Peng</a></div>

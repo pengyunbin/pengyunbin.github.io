@@ -10,7 +10,7 @@ Statistics 506 covers a variety of topics related to the use of computing for an
 <br>
 [Python Data Analysis](https://pengyunbin.github.io/stats701)
 
-## Project
+## Data Analysis Project
 A collection of my project or mini project 
 <br>
 [US residential building analysis](https://pengyunbin.github.io/project/USResidential)
@@ -20,6 +20,13 @@ A collection of my project or mini project
 [Analysis of Los Angeles Business](https://github.com/pengyunbin/stats506/tree/master/LA_Project)
 <br>
 [Traffic Fatality Analysis](https://github.com/pengyunbin/project/blob/master/Traffic_Fatality_Project.pdf)
+
+## Economics 
+[Risk Aversion](https://docs.google.com/document/d/e/2PACX-1vTRhxr-lCHr9RRzmB6hybX1mVCed9oTzrEDpxy2TU3aS4JAsFbW31c1lmn3-7I9s9EY62NlncREKV9A/pub)
+
+
+
+
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 

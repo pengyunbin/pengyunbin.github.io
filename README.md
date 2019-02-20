@@ -22,7 +22,7 @@ A collection of my project or mini project
 [Traffic Fatality Analysis](https://github.com/pengyunbin/project/blob/master/Traffic_Fatality_Project.pdf)
 
 ## Economics 
-[Risk Aversion](https://docs.google.com/document/d/e/2PACX-1vTRhxr-lCHr9RRzmB6hybX1mVCed9oTzrEDpxy2TU3aS4JAsFbW31c1lmn3-7I9s9EY62NlncREKV9A/pub)
+[Risk Aversion](https://docs.google.com/document/d/1jujGk9oiDkWi-YFl37X7nPNyKAxg-HoDX-HkVcobYUI/edit?usp=sharing)
 
 
 

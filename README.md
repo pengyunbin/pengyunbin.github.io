@@ -26,7 +26,7 @@ A collection of my project or mini project
 [Risk Aversion](https://docs.google.com/document/d/1jujGk9oiDkWi-YFl37X7nPNyKAxg-HoDX-HkVcobYUI/edit?usp=sharing)
 <br>
 [How a Markow process may help to model natural rate of unemployment?       ](https://pengyunbin.github.io/economics/markov) <br>
-[Click here for interactive simulation of Markov model in labor market with R Shiny](https://yunbinpeng.shinyapps.io/test/)
+[Click here for interactive simulation of Markov model in labor market with R Shiny](https://yunbinpeng.shinyapps.io/markov_labor/)
 
 
 

@@ -27,7 +27,7 @@ A collection of my project or mini project
 <br>
 [How a Markov process may help to model natural rate of unemployment?       ](https://pengyunbin.github.io/economics/markov) <br>
 [Click here for interactive version of the simulation above with R Shiny](https://yunbinpeng.shinyapps.io/markov_labor/) <br>
-[birthday problem simulation with R](https://pengyunbin.github.io/pengyunbin.github.io/birthday)
+[birthday problem simulation with R](https://pengyunbin.github.io/birthday)
 
 
 

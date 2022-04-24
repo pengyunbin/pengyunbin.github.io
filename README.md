@@ -14,13 +14,16 @@ Statistics 506 covers a variety of topics related to the use of computing for an
 ## Data Analysis Project
 A collection of my project or mini project 
 <br>
-[US residential building analysis](https://pengyunbin.github.io/project/USResidential)
+[Data science for good: PASSNYC](https://github.com/pengyunbin/pengyunbin.github.io/tree/master/NYC_school)
 <br>
 [Explonatory Data Analysis of NYC Flight Data](https://pengyunbin.github.io/project/NYC_Flight)
 <br>
+[Traffic Fatality Analysis](https://github.com/pengyunbin/project/blob/master/Traffic_Fatality_Project.pdf)
+<br>
 [Analysis of Los Angeles Business](https://github.com/pengyunbin/stats506/tree/master/LA_Project)
 <br>
-[Traffic Fatality Analysis](https://github.com/pengyunbin/project/blob/master/Traffic_Fatality_Project.pdf)
+[US residential building analysis](https://pengyunbin.github.io/project/USResidential)
+<br>
 
 ## Economics 
 [Risk Aversion](https://docs.google.com/document/d/1jujGk9oiDkWi-YFl37X7nPNyKAxg-HoDX-HkVcobYUI/edit?usp=sharing)

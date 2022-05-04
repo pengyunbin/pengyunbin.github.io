@@ -6,9 +6,6 @@ Feel free to visit my [Linkedin](https://www.linkedin.com/in/yunbinpeng/) and [G
 ## STATS 506 Statistical Computing 
 Statistics 506 covers a variety of topics related to the use of computing for analyzing, managing, and presenting data. Although the main language used is R, I also learnt STATS, SAS, SQL in this class. You may find my assignments from this class [here](https://pengyunbin.github.io/stats506/). 
 
-## Python 
-[Python Data Analysis](https://pengyunbin.github.io/stats701)
-
 ## Data Analysis Project
 A collection of my project or mini project 
 <br>
